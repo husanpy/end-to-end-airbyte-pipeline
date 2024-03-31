@@ -1,0 +1,12 @@
+__pycache__
+.venv/
+.vscode/
+*.csv
+*.json
+.DS_Store
+.env
+*.xml
+*.iml
+*.idea
+logs
+*.log
